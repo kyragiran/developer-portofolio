@@ -2,10 +2,13 @@
 title: "developer-portfolio"
 ---
 
-This is a Quarto website.
+# Welcome to My Website
+Hi, I'm Kyra Giran, a master's student at Utrecht University studying statistics.  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- [LinkedIn](https://www.linkedin.com/in/kyra-gir%C3%A1n-06b788218/)  
+- [GitHub](https://github.com/kyragiran)
 
-```{r}
-1 + 1
-```
+![My Picture](kyra_pic.jpg){width=150px style="border-radius: 30%;"}  
+
+
+
